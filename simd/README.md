@@ -1,4 +1,4 @@
-#SIMD (sim-dee)
+# SIMD (sim-dee)
 
 SIMD står for Single-Instruction Multiple-Data (utalt "sim-dee").
 SIMD gjør at vi kan utføre en instruks på et dataset )en vektor) med flere punkt.
@@ -8,6 +8,8 @@ SIMD gjør at vi kan utføre en instruks på et dataset )en vektor) med flere pu
 
 ## Single Instruction Multiple Data
 ![SIMD](https://mdn.mozillademos.org/files/10507/SIMD.png)
+
+### Code Example
 
 ```javascript
 const a = SIMD.Float32x4(1, 2, 3, 4);

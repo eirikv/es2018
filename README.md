@@ -8,9 +8,9 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 * [Rest/Spread Properties](rest-spread/)
 * [SIMD](simd/)
 * Function.prototype.toString revision
-* [Lifting Template Literal Restriction](https://tc39.github.io/proposal-template-literal-revision/)
+* [Lifting Template Literal Restriction](template-literal-revision/)
 * global
-* [Asynchronous Iteration](https://github.com/tc39/proposal-async-iteration)
+* [Asynchronous Iteration](asynchronous-iteration/)
 * [import()](https://github.com/tc39/proposal-dynamic-import)
 * [Regexp Lookbehind Assertions](https://github.com/tc39/proposal-regexp-lookbehind)
 * [Regexp Unicode Property Escapes](https://github.com/tc39/proposal-regexp-unicode-property-escapes)

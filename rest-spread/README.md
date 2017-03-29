@@ -1,8 +1,8 @@
-#Rest/Spread Properties
+# Rest/Spread Properties
 
-##Rest Properties
+## Rest Properties
 
-###Code Example
+### Code Example
 
 ```javascript
 const { x, y, ...z } = { x: 1, y: 2, a: 3, b: 4 };
@@ -11,9 +11,9 @@ console.log(y); // 2
 console.log(z); // { a: 3, b: 4 }
 ```
 
-###Code Example
+### Code Example
 
-##Spread Properties
+## Spread Properties
 
 ```javascript
 const n = { x, y, ...z };
