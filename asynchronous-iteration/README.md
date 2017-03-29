@@ -1,10 +1,10 @@
 # Asynchronous Iteration (for-await-of)
 
-A JavaScript Iterator is an object with a .next() method, which returns an IteratorItem, which is an object with value : <any> and done : <boolean>.
+A JavaScript Iterator is an object with a .next() method, which returns an IteratorItem, which is an object with value: \<any\> and done: \<boolean\>.
 
-A JavaScript AsyncIterator is an object with a .next() method, which returns a Promise<IteratorItem>, a promise for the next value.
+A JavaScript AsyncIterator is an object with a .next() method, which returns a Promise\<IteratorItem\>, a promise for the next value.
 
-## Solution
+## Code Example
 
 ```javascript
 /**
