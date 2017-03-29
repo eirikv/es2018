@@ -5,9 +5,9 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 
 ### Stage 3
 
-* [Rest/Spread Properties](https://babeljs.io/docs/plugins/transform-object-rest-spread/)
-* [SIMD.JS](https://github.com/tc39/ecmascript_simd/blob/master/tc39/SIMD-128%20TC-39.pdf)(Single Instruction Single Data - Single Instruction Multiple Data)
-* Function.prototype.toString revision:
+* [Rest/Spread Properties](rest-spread/)
+* [SIMD](simd/)
+* Function.prototype.toString revision
 * [Lifting Template Literal Restriction](https://tc39.github.io/proposal-template-literal-revision/)
 * global
 * [Asynchronous Iteration](https://github.com/tc39/proposal-async-iteration)
@@ -28,3 +28,7 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 * [Private fields](https://github.com/tc39/proposal-private-fields)
 * [Intl.Segmenter](https://github.com/tc39/proposal-intl-segmenter)
 
+
+
+Temp colors:
+'#DB5945', '#4DB6AC', '#BA68C8', '#F06292', '#9575CD', '#4DD0E1', '#FFD54F', '#90A4AE'
