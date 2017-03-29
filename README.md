@@ -6,7 +6,7 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 ### Stage 3
 
 * [Rest/Spread Properties](https://babeljs.io/docs/plugins/transform-object-rest-spread/)
-* [SIMD.JS](https://github.com/tc39/ecmascript_simd/blob/master/tc39/SIMD-128%20TC-39.pdf)(Single Instruction Single Data - Single Instruction Multiple Data)]
+* [SIMD.JS](https://github.com/tc39/ecmascript_simd/blob/master/tc39/SIMD-128%20TC-39.pdf)(Single Instruction Single Data - Single Instruction Multiple Data)
 * Function.prototype.toString revision:
 * [Lifting Template Literal Restriction](https://tc39.github.io/proposal-template-literal-revision/)
 * global
@@ -20,7 +20,7 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 Stage 2
 * [Generator function.sent Meta property](https://github.com/allenwb/ESideas/blob/master/Generator%20metaproperty.md)
 * [trimStart/trimEnd](https://github.com/sebmarkbage/ecmascript-string-left-right-trim)
-* [Public class fields](Public Class Fields)
+* [Public class fields](https://tc39.github.io/proposal-class-public-fields/)
 * [Promise finally](https://github.com/tc39/proposal-promise-finally)
 * [Decorators](https://github.com/wycats/javascript-decorators/blob/master/README.md)
 * [Legacy Regexp](https://github.com/tc39/proposal-regexp-legacy-features)
