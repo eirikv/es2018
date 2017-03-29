@@ -17,7 +17,8 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
 * [Regexp named capture groups](https://github.com/tc39/proposal-regexp-named-groups)
 * Regexp s(dotAll) flag
 
-Stage 2
+### Stage 2
+
 * [Generator function.sent Meta property](https://github.com/allenwb/ESideas/blob/master/Generator%20metaproperty.md)
 * [trimStart/trimEnd](https://github.com/sebmarkbage/ecmascript-string-left-right-trim)
 * [Public class fields](https://tc39.github.io/proposal-class-public-fields/)
