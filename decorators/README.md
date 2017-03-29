@@ -34,5 +34,5 @@ Decorators are helpful for anything you want to transparently wrap with extra fu
 ```
 
 Source:
-[Exploring EcmaScript Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841)
+[Exploring EcmaScript Decorators](https://medium.com/google-developers/exploring-es7-decorators-76ecb65fb841),
 [TC-39](https://github.com/wycats/javascript-decorators/blob/master/README.md)
