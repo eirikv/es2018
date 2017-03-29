@@ -11,9 +11,9 @@ console.log(y); // 2
 console.log(z); // { a: 3, b: 4 }
 ```
 
-### Code Example
-
 ## Spread Properties
+
+### Code Example
 
 ```javascript
 const n = { x, y, ...z };
@@ -22,4 +22,5 @@ console.log(n); // { x: 1, y: 2, a: 3, b: 4 }
 
 ---
 
-Source: [Babeljs](https://babeljs.io/docs/plugins/transform-object-rest-spread/)
+Source:
+[Babeljs](https://babeljs.io/docs/plugins/transform-object-rest-spread/)

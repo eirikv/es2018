@@ -16,14 +16,14 @@ function tag(strs) {
   strs.raw[0] === "\\unicode and \\u{55}";
 }
 
-tag`\unicode and \u{55}`
+tag\`\\unicode and \\u{55}\`
 
 ```
 
 Untagged templates still throw an early error for invalid escape sequences:
 
 ```javascript
-let bad = `bad escape sequence: \unicode`; // throws early error
+let bad = \`bad escape sequence: \\unicode\`; // throws early error
 ```
 
 Source:
