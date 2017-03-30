@@ -1,7 +1,6 @@
 # SIMD (sim-dee)
 
-SIMD står for Single-Instruction Multiple-Data (utalt "sim-dee").
-SIMD gjør at vi kan utføre en instruks på et dataset )en vektor) med flere punkt.
+SIMD (pronounced "sim-dee") is short for Single Instruction/Multiple Data which is one classification of computer architectures. SIMD operations perform the same computation on multiple data points resulting in data level parallelism and thus performance gains, for example for 3D graphics and video processing, physics simulations or cryptography, and other domains.
 
 ## Single Instruction Single Data
 ![SISD](https://mdn.mozillademos.org/files/10509/SISD.png)

@@ -14,9 +14,9 @@ Presentation of ES2018 (stage 2 and 3 from the TC39 proposals).
     * [Lookbehind Assertions](regex#lookbehind-assertions)
     * [Unicode Property Escapes](regex#unicode-property-escapes)
     * [Named Capture Groups](regex#unicode-property-escapes)
-    * [s(dotAll) flag](regex#named-capture-groups)
-* global
-* Function.prototype.toString revision
+    * [s(dotAll) flag](https://github.com/mathiasbynens/es-regexp-dotall-flag)
+* [global](https://github.com/tc39/proposal-global)
+* [Function.prototype.toString revision](https://github.com/tc39/Function-prototype-toString-revision)
 
 ### Stage 2
 

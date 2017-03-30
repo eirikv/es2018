@@ -41,9 +41,6 @@ let result = re.exec('2015-01-02');
 // result[3] === '02';
 ```
 
-
-## s(dotAll) flag
-
 ---
 
 Source:
